@@ -1,0 +1,31 @@
+.main{
+    margin-left: 330px;
+    margin-top: 100px;
+}
+.image{
+    width: 710px;
+    height: 400px;
+}
+.next{
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 950px;
+    bottom: 93px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.prev{
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    margin-left: 330px;
+    margin-top: 10px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
